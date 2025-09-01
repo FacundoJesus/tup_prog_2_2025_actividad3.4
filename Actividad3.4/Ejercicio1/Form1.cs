@@ -63,6 +63,7 @@ namespace Ejercicio1
             Close();
         }
 
+        //Ordeno por volumen.
         private void btnOrdenarAreas_Click(object sender, EventArgs e)
         {
             lsbResultado.Items.Clear();
